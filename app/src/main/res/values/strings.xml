@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NextDay</string>
+    <string name="api">https://reqres.in/api/users?page=</string>
+</resources>
